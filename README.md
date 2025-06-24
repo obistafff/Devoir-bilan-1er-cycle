@@ -1,1 +1,1 @@
-Bonjour, j'ai bien compris qu'il fallait versionner le code sur git hub, mais je n'y arrive pas, j'ai tout glissé dedans comme ça en ésperant que cela puisse suffire.
+loin de maitriser git hub, j'epsere que cela pourra suffire
